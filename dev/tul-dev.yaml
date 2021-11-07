@@ -1,5 +1,6 @@
 gretting:
   name: Dev directory git
+  lastname: lastname bb
 
 spring:
   jpa:
